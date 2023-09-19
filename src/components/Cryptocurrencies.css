@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@400;600;700&display=swap');
+
+.crypto-card-container{
+    min-height: 75vh !important;
+    gap: 2rem;
+}
+
+@media screen and (min-width: 900px){
+.cryt-crd-container{
+    gap: 2rem;
+    min-height: 75vh !important;
+    margin-left: 14rem;
+}
+}
+.crypto-card{
+    min-width: 250px;
+}
+.crypto-card .crypto-image{
+    width: 35px;
+}
+
+.crypto-card p{
+    font-family: Lato , sans-serif;
+}
+
+.search-crypto{
+    margin: 20px auto 30px auto;
+    width: 250px;
+}

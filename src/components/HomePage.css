@@ -1,0 +1,27 @@
+@media screen and (min-width: 900px){
+    
+    .global-stats{
+    margin-left: 4rem;
+    margin-top: 1rem;
+}
+
+.show-more{
+    margin-top: 0px !important;
+}
+
+.top-10-cryptos{
+    
+    margin: 4rem 4rem;
+}
+
+.top-news{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    
+}
+
+.home-heading-container{
+    margin-bottom: 2rem;
+}
+
+}
